@@ -4,5 +4,5 @@
 
 - 🤔 &nbsp; Data enthusiast interested in time-series analysis and forecasting 📈
 - 💼 &nbsp; Working as a Commercial Planning Sr. Specialist @ Anheuser-Busch 🦅
-- 🎓 &nbsp; Studied Applied Data Science (M.S.) @ Syracuse University 🍊, English (B.A.) @ Saint Louis University ⚜
+- 🎓 &nbsp; Studied Applied Data Science (M.S.) @ Syracuse University 🍊, and English (B.A.) @ Saint Louis University ⚜
 - ✍️ &nbsp; I like to read, play music, and hang out with my dog, Yuki 🐕
